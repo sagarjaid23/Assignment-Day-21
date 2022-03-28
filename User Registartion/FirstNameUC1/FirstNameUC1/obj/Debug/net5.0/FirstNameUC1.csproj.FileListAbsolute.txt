@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\bin\Debug\net5.0\FirstNameUC1.exe
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\bin\Debug\net5.0\FirstNameUC1.deps.json
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\bin\Debug\net5.0\FirstNameUC1.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\bin\Debug\net5.0\FirstNameUC1.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\bin\Debug\net5.0\FirstNameUC1.dll
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\bin\Debug\net5.0\FirstNameUC1.pdb
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\obj\Debug\net5.0\FirstNameUC1.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\obj\Debug\net5.0\FirstNameUC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\obj\Debug\net5.0\FirstNameUC1.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\obj\Debug\net5.0\FirstNameUC1.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\obj\Debug\net5.0\FirstNameUC1.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\obj\Debug\net5.0\FirstNameUC1.dll
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\obj\Debug\net5.0\refint\FirstNameUC1.dll
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\obj\Debug\net5.0\FirstNameUC1.pdb
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\obj\Debug\net5.0\FirstNameUC1.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Day21\User Registartion\FirstNameUC1\FirstNameUC1\obj\Debug\net5.0\ref\FirstNameUC1.dll
